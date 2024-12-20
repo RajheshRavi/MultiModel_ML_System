@@ -1,0 +1,5 @@
+flask
+python-multipart
+pandas
+scipy
+scikit-learn
